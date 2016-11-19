@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myTabName" value="dev001" />
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>

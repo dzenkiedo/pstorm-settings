@@ -1,0 +1,88 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1479059932205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/netbeans/modx-test/public_html/portal/templates/base_template.tpl" timestamp="1478912335659">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/dev/netbeans/modx-test/public_html/portal/core/plugins/core_plg_check_login.php" timestamp="1479233335847">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9keC0+Z2V0UmVxdWVzdCgnbW9kUmVxdWVzdCcsICdhZ2VudC1tYW5hZ2VyL2FkbWluLWxvZ2luLycpKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">JG1vZHgtPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9keC0+Z2V0UmVxdWVzdCgnbW9kUmVxdWVzdCcsICdhZ2VudC1tYW5hZ2VyL2FkbWluLWxvZ2luLycpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICcxMjMnOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9keC0+cmVzb3VyY2UtPmdldCgiaWQiKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXNBdXRoZW50aWNhdGVkKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmKCR1c2VybmFtZSAhPSAiKGFub255bW91cykiKSB7Ci8vICAgICAgICAkbW9keC0+c2VuZFJlZGlyZWN0KCRtb2R4LT5tYWtlVXJsKDgpKTsKICAgICAgICB2YXJfZHVtcCgkdXNlcm5hbWUpOwogICAgICAgIGRpZSgpOwogICAgfSBlbHNlIHsKICAgICAgICB2YXJfZHVtcCgkdXNlcm5hbWUpOwogICAgICAgIGRpZSgpOwogICAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICcxMjMnOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
