@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="603f4479-a763-48b2-99fd-3cac1b3cc889" name="tmweb__hostcms" url="http://dzenkiedo-hostcms-2.tw1.ru">
+        <fileTransfer host="92.53.114.3" port="22" rootFolder="/home/d/dzenkiedo/hostcms_2/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
